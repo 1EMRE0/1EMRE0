@@ -12,13 +12,13 @@
   <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/line.gif" width="100%" />
 </p>
 
-p align="center">
+<p align="center">
   <a href="https://linkedin.com/in/emreovacik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-
+ 
+  
 </p>
-
 
 
 <p align="center">
