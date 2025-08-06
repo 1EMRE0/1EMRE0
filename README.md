@@ -27,11 +27,15 @@
 
 ---
 
-### 🧠 Hakkımda
-- 
+
+ 🧠 About Me
+- I am a Computer Engineering student / graduate.
+- I develop projects in deep learning, computer vision, and natural language processing (NLP).
+- I work with technologies such as Python, PyTorch, and .NET.
+- I enjoy building applications that solve real-world problems.
     
 
----
+
 
 
 
