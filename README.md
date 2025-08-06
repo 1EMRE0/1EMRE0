@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emre Ovacık</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Deep+Learning;Fullstack+Developer+%7C+.NET;PyTorch;Machine+Learning;Computer+Vision;NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Fullstack+Developer;.NET+%7C+PyTorch+%7C+Machine+Learning;Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif)" width="400" />
+  <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif" width="400" />
 </p>
+
 
 
 
