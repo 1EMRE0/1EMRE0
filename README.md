@@ -42,6 +42,15 @@
 ---
 
 
+### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60">
+  <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="60" height="60">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
+</p>
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
