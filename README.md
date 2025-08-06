@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif" width="620" />
 </p>
 
 
