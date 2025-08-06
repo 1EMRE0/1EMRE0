@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Deep+Learning;Fullstack+Developer+%7C+.NET;PyTorch;Machine+Learning;Computer+Vision;NLP" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif)" width="400" />
+</p>
+
+
 
 
 <p align="center">
