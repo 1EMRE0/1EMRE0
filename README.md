@@ -28,8 +28,7 @@
 ---
 
 ### 🧠 Hakkımda
-- 🎓 Bilgisayar Mühendisliği.  
-- 🤖 Yapay zeka, derin öğrenme  projeleri geliştiriyorum.  
+- 
     
 
 ---
@@ -38,7 +37,7 @@
 
 ---
 
-### 🛠️ Kullandığım ve Sevdiğim Teknolojiler
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -51,16 +50,13 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
+
 <p align="center">
   
 </p>
 
 ---
 
-### 📫 Bana Ulaşın
-- 📧 emreovacik@example.com  
-- 🔗 [LinkedIn Profilim](www.linkedin.com/in/emre-ovacik1)
 
 ---
 
