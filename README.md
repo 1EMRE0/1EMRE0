@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emre Ovacık</h1>
-<h3 align="center">AI / Deep Learning / </h3>
-<h1 align="center">Hi 👋, I'm Emre Ovacık</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Deep+Learning+Researcher;YOLO+%7C+Vehicle+Damage+Detection;AI+Enthusiast+%7C+Flask+%7C+Roboflow;PyTorch+%7C+Transformers+%7C+n8n+%7C+Appsmith" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Deep+Learning;Fullstack+Developer+%7C+.NET;PyTorch;Machine+Learning;Computer+Vision;NLP" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
