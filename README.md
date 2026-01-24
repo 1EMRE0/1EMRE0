@@ -1,77 +1,70 @@
 <h1 align="center">Hi 👋, I'm Emre Ovacık</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Fullstack+Developer;.NET+%7C+PyTorch+%7C+Machine+Learning;Computer+Vision+%7C+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Deep+Learning+Engineer;Fullstack+Developer;.NET+%2B+PyTorch;Computer+Vision+%26+NLP" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif" width="625" />
+  <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/gf.gif" width="600" />
+</p>
+
+---
+
+### 🧠 Hakkımda
+
+Ben bir Bilgisayar Mühendisiyim. Modern yazılım mimarileri ile yapay zekayı harmanlamayı seviyorum. Veriden anlam çıkarmak ve bu anlamı kullanıcıya sunacak sağlam sistemler kurmak odak noktam.
+
+- 🚀 Şu an **Deep Learning** ve **Computer Vision** projeleri üzerine yoğunlaşıyorum.
+- 🛠️ Arka planda **.NET** ekosistemini, modelleme tarafında ise **PyTorch** kullanıyorum.
+- 🎯 Gerçek dünya problemlerine ölçeklenebilir ve yapay zeka destekli çözümler üretmeyi hedefliyorum.
+
+---
+
+### 🛠️ Yetkinlikler
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Yapay Zeka** | `Python`, `PyTorch`, `TensorFlow`, `Computer Vision`, `NLP` |
+| **Backend** | `.NET`, `Entity Framework`, `REST API` |
+| **Veritabanı** | `MySQL`, `PostgreSQL`, `MSSQL` |
+| **Araçlar** | `Git`, `Docker`, `Linux` |
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,dotnet,cs,mysql,postgres,git,docker,linux" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreovacik&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="Emre's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreovacik&layout=compact&theme=darkhub&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emreovacik&theme=darkhub&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın
+
+<p align="center">
+  <a href="https://linkedin.com/in/emreovacik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:emreovacik@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emreovacik&label=Profile%20views&color=0e75b6&style=flat-square" alt="emreovacik" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/1EMRE0/1EMRE0/refs/heads/main/line.gif" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/emreovacik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
- 
-  
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emreovacik&label=Profile%20views&color=0e75b6&style=flat" alt="emreovacik" />
-</p>
-
----
-
-
- 🧠 About Me
-- I am a Computer Engineering student / graduate.
-- I develop projects in deep learning, computer vision, and natural language processing (NLP).
-- I work with technologies such as Python, PyTorch, and .NET.
-- I enjoy building applications that solve real-world problems.
-    
-
-
-
-
-
----
-
-
-### ⚙️ Tech Stack
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60">
-  <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="60" height="60">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
-</p>
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
- 
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
- 
-</p>
-
----
-
-
-<p align="center">
-  
-</p>
-
----
-
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emreovacik&theme=darkhub" />
 </p>
