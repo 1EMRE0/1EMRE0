@@ -10,24 +10,25 @@
 
 ---
 
-### 🧠 Hakkımda
+### 🧠 About Me
 
-Ben bir Bilgisayar Mühendisiyim. Modern yazılım mimarileri ile yapay zekayı harmanlamayı seviyorum. Veriden anlam çıkarmak ve bu anlamı kullanıcıya sunacak sağlam sistemler kurmak odak noktam.
+I am a Computer Engineering graduate/student passionate about bridging the gap between **Artificial Intelligence** and scalable **Software Engineering**. I specialize in building end-to-end applications that leverage deep learning to solve complex real-world problems.
 
-- 🚀 Şu an **Deep Learning** ve **Computer Vision** projeleri üzerine yoğunlaşıyorum.
-- 🛠️ Arka planda **.NET** ekosistemini, modelleme tarafında ise **PyTorch** kullanıyorum.
-- 🎯 Gerçek dünya problemlerine ölçeklenebilir ve yapay zeka destekli çözümler üretmeyi hedefliyorum.
+- 🔭 **Currently focusing on:** Deep Learning, Computer Vision, and Natural Language Processing (NLP).
+- 🛠️ **Tech Stack:** I build models using **PyTorch** and develop robust backend systems with **.NET**.
+- 🌱 **Learning:** Constantly exploring advanced neural network architectures and cloud-native AI deployment.
+- 🎯 **Goal:** Developing high-performance, AI-driven solutions that provide meaningful user experiences.
 
 ---
 
-### 🛠️ Yetkinlikler
+### ⚙️ Tech Stack
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 | :--- | :--- |
-| **Yapay Zeka** | `Python`, `PyTorch`, `TensorFlow`, `Computer Vision`, `NLP` |
-| **Backend** | `.NET`, `Entity Framework`, `REST API` |
-| **Veritabanı** | `MySQL`, `PostgreSQL`, `MSSQL` |
-| **Araçlar** | `Git`, `Docker`, `Linux` |
+| **AI & Data Science** | `Python`, `PyTorch`, `TensorFlow`, `OpenCV`, `NLTK/Spacy` |
+| **Backend Development** | `.NET`, `C#`, `Entity Framework`, `RESTful APIs` |
+| **Databases** | `MySQL`, `PostgreSQL`, `MSSQL` |
+| **Tools & DevOps** | `Git`, `Docker`, `Linux`, `Anaconda` |
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,7 +38,7 @@ Ben bir Bilgisayar Mühendisiyim. Modern yazılım mimarileri ile yapay zekayı 
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emreovacik&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="Emre's GitHub stats" height="170" />
@@ -50,13 +51,13 @@ Ben bir Bilgisayar Mühendisiyim. Modern yazılım mimarileri ile yapay zekayı 
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/emreovacik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emreovacik@example.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
