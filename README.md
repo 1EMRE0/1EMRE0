@@ -38,23 +38,14 @@ I am a Computer Engineering graduate/student passionate about bridging the gap b
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreovacik&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="Emre's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreovacik&layout=compact&theme=darkhub&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emreovacik&theme=darkhub&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/emreovacik" target="_blank">
+  <a href="[https://linkedin.com/in/emreovacik](https://www.linkedin.com/in/emre-ovacik1/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
