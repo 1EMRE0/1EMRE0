@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Ovacık</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Deep+Learning+Engineer;Fullstack+Developer;.NET+%2B+PyTorch;Computer+Vision+%26+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Computer Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
